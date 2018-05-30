@@ -1,8 +1,8 @@
-## 这是一份由自己设计并开发的简历
+## 简历
 
-* http://resume.congm.in
+* https://resume.ely.me
 
-Fork或借鉴请注明出处 [@ Cong Min](https://congm.in) . Thx
+
 
 前提: 已安装`nodejs` `npm`
 - 0、`npm i` 安装依赖
@@ -13,4 +13,7 @@ Fork或借鉴请注明出处 [@ Cong Min](https://congm.in) . Thx
 
 > chrome浏览器 - "打印" - 设置无边距 - 即可导出
 
-![闵聪-简历](https://raw.githubusercontent.com/mcc108/resume/master/resume.jpg)
+![肖纯勇-简历](https://raw.githubusercontent.com/xiaochunyong/resume/master/resume.jpg)
+
+
+Fork From [@ Cong Min](https://congm.in).
