@@ -13,7 +13,7 @@
 
 > chrome浏览器 - "打印" - 设置无边距 - 即可导出
 
-![肖纯勇-简历](https://raw.githubusercontent.com/xiaochunyong/resume/master/resume.jpg)
+![肖纯勇-简历](https://raw.githubusercontent.com/xiaochunyong/resume/master/resume.png)
 
 
 Fork From [@ Cong Min](https://congm.in).
